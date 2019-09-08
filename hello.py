@@ -9,4 +9,4 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs30\fsmilli15390 \cf2 \cb3 \expnd0\expndtw0\kerning0
-print(\cf4 'hello python & git'\cf2 )}
+print(\cf4 'hello python & git rock'\cf2 )}
